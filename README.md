@@ -1,12 +1,19 @@
-# Color-Scripts
+Forked from [stark's Color-Scripts GitHub repo](https://github.com/stark/Color-Scripts).<br>
+Inspired by [Derek Taylor](https://gitlab.com/dwt1)'s [GitLab repo](https://gitlab.com/dwt1/shell-color-scripts) & [YouTube video](https://www.youtube.com/watch?v=8Z1OKN6TgxI).
 
-Color scripts created by various people that was scattered around the web now in one place.
+<br>
 
-You will find screenshots in the directory named `preview`
+---
 
-All the scripts have been baptized with `chmod +x`
+# Shell Color Scripts
+
+Color scripts created by various people that were scattered around the web now gathered in one place.
 
 ![Screenshot](http://i.imgur.com/tyA72c7.png)
+
+You can find screenshots in the [preview](preview) directory.
+
+All the scripts have been baptized with `chmod +x`.
 
 ## Dependencies
 
@@ -14,29 +21,18 @@ All the scripts have been baptized with `chmod +x`
 - `python 2 or 3` (required for `print-colors.py` and `unowns.py`)
 - `perl` (required for `color-support1.pl`)
 
-## Download
-
-### Using Git
+## Install
 
 Clone this repository:
+
 ```sh
-git clone https://github.com/stark/color-scripts
+git clone https://github.com/ben-clem/shell-color-scripts
 ```
 
-### Without Git
-
-[Download tarball](https://git.io/colr.tar.gz)
-```
-wget git.io/colr.tar.gz
-```
-
-[Download zipball](https://git.io/colr.zip)
-```
-wget git.io/colr.zip
-```
+https://github.com/stark/Color-Scripts/issues/21
 
 ## Contributions
 
-If you have created or found a color script which is not present in this repository then **Feel Free** to make a [Pull Request](https://github.com/stark/Color-Scripts/pulls) :-)
+If you have created or found a color script which is not present in this repository then **Feel Free** to make a [Pull Request](https://github.com/ben-clem/shell-color-scripts/pulls) :-)
 
-You can also share your script via a pastebin of your choice and pasting the link in a [New Issue](https://github.com/stark/Color-Scripts/issues).
+You can also share your script via a pastebin of your choice and pasting the link in a [New Issue](https://github.com/ben-clem/shell-color-scripts/issues).
